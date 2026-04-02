@@ -2,4 +2,4 @@
 
 | Name | Email | Field of Study | Year of study |
 | ---- | ----- | ---- | ---- |
-| Example | `example@gmail.com` | QUANTUM | II |
+| Gabor Paul-Mihai | `paulmihai.gabor@ulbsibiu.ro` | E.E. - Embedded Systems | I |

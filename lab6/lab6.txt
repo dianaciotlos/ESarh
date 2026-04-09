@@ -1,0 +1,10 @@
+Laboratory 6
+1. Light up the Built-in LED.
+2. Measure the HIGH–LOW Logic Transition (1 ms delay)
+3. Use one of the board buttons to Control the LED (choice and purpose of the button)
+    - Why that button? (Blue or Black.)
+        Explain it based on schematic, datasheet or pinout.
+4. Measure the Button Response
+    Do you consider the signal stable ?
+5. Implementation Method and Report
+    Explain everything. Everything you did today.

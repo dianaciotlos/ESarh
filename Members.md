@@ -2,4 +2,4 @@
 
 | Name | Email | Field of Study | Year of study |
 | ---- | ----- | ---- | ---- |
-| Example | `example@gmail.com` | QUANTUM | II |
+| Ciotlos Diana | dianamaria.ciotlos@ulbsibiu.ro | Tehnologia Informatiei |Completed|
